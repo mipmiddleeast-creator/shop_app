@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "vercel-xhttp-relay",
+  "name": "uni_app",
   "functions": {
     "api/index.js": {
       "memory": 128,
