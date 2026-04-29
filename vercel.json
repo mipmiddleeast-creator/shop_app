@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2.1.0,
   "name": "shop-app",
   "functions": {
     "api/index.js": {
