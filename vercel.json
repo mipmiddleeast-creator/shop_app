@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "name": "uni_app",
+  "version": 3,
+  "name": "shop-app",
   "functions": {
     "api/index.js": {
       "memory": 128,
