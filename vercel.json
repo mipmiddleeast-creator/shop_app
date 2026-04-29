@@ -8,7 +8,7 @@
     }
   },
   "rewrites": [
-    { "source": "/(.*)", "destination": "/server/core" }
+    { "source": "/(.*)", "destination": "/server/core.js" }
   ],
   "trailingSlash": false
 }
